@@ -89,4 +89,4 @@ Validação:    Zod, React Hook Form
 
 ## 📄 Licença
 
-MIT © 2025 Bullstockcode 
+MIT © 2025 VisionVll
