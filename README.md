@@ -1,4 +1,4 @@
-# 🚀 VisionVII - Projetos Públicos & Portfólio
+# 🚀 Bullstock - Projetos Públicos & Portfólio
 
 ![VisionVII Logo](https://img.shields.io/badge/VisionVII-Inovacao%20Digital-blue?style=for-the-badge)
 
@@ -72,7 +72,6 @@ Validação:    Zod, React Hook Form
 ## 💼 Serviços
 
 - Desenvolvimento Full Stack
-- Desenvolvimento Mobile
 - UI/UX Design
 - Consultoria & Mentoria
 
@@ -90,4 +89,4 @@ Validação:    Zod, React Hook Form
 
 ## 📄 Licença
 
-MIT © 2025 VisionVII
+MIT © 2025 Bullstockcode 
