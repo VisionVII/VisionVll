@@ -28,7 +28,7 @@ A **VisionVII** é uma empresa focada em **desenvolvimento de software**, **inov
 
 ---
 
-## 🏆 Projetos Bullstock
+## 🏆 Projetos
 
 ### 📚 SM Educacional - Plataforma de Ensino Online
 
